@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351163824931",
+    "project_id": "velocity-chat-face0",
+    "storage_bucket": "velocity-chat-face0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351163824931:android:704e5702b248fb47a8ea96",
+        "android_client_info": {
+          "package_name": "velocity_chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxCsBadBiRZPoFYPq4eOTBfh7AvOas954"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
